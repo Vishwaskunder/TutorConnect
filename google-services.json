@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946930548836",
+    "project_id": "tutorconnectapp-ceca4",
+    "storage_bucket": "tutorconnectapp-ceca4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946930548836:android:0f26c3a6de95ed91b91f71",
+        "android_client_info": {
+          "package_name": "com.example.tutorconnect_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfFFmqABHV02ylxt7Jx6EyPp8X_2XFc8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
